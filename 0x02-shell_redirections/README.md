@@ -1,1 +1,1 @@
-Script that prints the absolute path name of the current working directory
+script that prints “Hello, World”, followed by a new line to the standard output
